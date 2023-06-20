@@ -6,7 +6,7 @@ Heart failure is a common event caused by CVDs and this dataset contains 12 feat
   
 Because most cardiovascular diseases are preventable, people with cardiovascular disease or who are at high cardiovascular risk need early detection and management wherein a machine learning model can be of great help.  
   
-Therefore, in this study, ***it is aimed to create a model to predict the mortality caused by Heart Failure by using the Artificial Neural Network Model.***
+Therefore, in this study, ***it is aimed to create a model to estimate the mortality caused by Heart Failure by using the Artificial Neural Network Model.***
 
 ## About the Data (Description of Attributes)
 1. **age**: Age of the patient
