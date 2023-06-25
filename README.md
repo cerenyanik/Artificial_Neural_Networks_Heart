@@ -28,4 +28,4 @@ Therefore, in this study, ***it is aimed to create a model to estimate the morta
 - **DEATH_EVENT**: If the patient deceased during the follow-up period (Boolean)  
 [Attributes having Boolean values: 0 = Negative (No); 1 = Positive (Yes)]
 
-Link to dataset from Kaggle: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
+Find out more about this dataset here: https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data
