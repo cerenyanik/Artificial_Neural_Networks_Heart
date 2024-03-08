@@ -2,7 +2,7 @@
 **Libraries**: *Tensorflow, Imblearn, Sklearn, Pandas, Matplotlib, Seaborn, Numpy*  
 **Supervised Machine Learning Project**: *Heart Failure Estimation*  
 
-## Heart Failure Estimation with ANN Model
+## Heart Failure Estimation with ANN Model 
 
 Cardiovascular diseases (CVDs) are the **number 1 cause of death globally**, taking an estimated **17.9 million lives each year**, which accounts for **31% of all deaths worldwide**.  
   
